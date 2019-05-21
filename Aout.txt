@@ -1,0 +1,11 @@
+==============================================================
+Halo!
+This is Estiak
+And I am trying to Implement a CRUD function acording to 
+.Net Cor with EF core and .net core Framework
+Hope It will be helpful for all of you.
+Thank you
+==============================================================
+FB id: https://www.facebook.com/profile.php?id=100009685711397
+Email: en.estiak@gmail.com
+==============================================================
